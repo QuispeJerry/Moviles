@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App_Sem04_s1_p2</string>
+    <string name="question">¿Es lima capital de Chile?</string>
+    <string name="optionTrue">True</string>
+    <string name="optionFalse">False</string>
+    <string name="anwserFinal">Respuesta</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="points">Points: 0</string>
+    <string name="lives">Lives: 5</string>
+
+</resources>

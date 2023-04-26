@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App_Sem04_s1</string>
+    <string name="enviar">Enviar</string>
+    <string name="text">Ingrese un texto</string>
+</resources>
